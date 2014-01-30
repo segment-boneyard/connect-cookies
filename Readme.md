@@ -3,6 +3,8 @@
 
   [cookies](https://github.com/jed/cookies) and [keygrip](https://github.com/jed/keygrip) based cookie middleware for connect/express.
 
+  [![build status](https://secure.travis-ci.org/segmentio/connect-cookies.png)](http://travis-ci.org/segmentio/connect-cookies)
+
 ## Example
 
 ```js
